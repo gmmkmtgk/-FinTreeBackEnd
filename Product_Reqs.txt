@@ -10,14 +10,26 @@ List a product
 Recive Orders
 Recive Payment
 Recive User Data
-Then he can send photo/video(with Donator's photo) on Donator's Email
-Dead Line + 30 Days payment Block  
+Then he can send photo/video(with Donator's photo) (4 digit code genration)on Donator's Email plus + after 25 days donator needs to send the same photo/ location where it is grown 
+Dead Line + 30 Days payment Block + 1-5% platform charges 
 
 
 Tree Donator
 Can chosse a tree grower's product
+Search Bar
+>>Name of tree
+Filers are
+>>country
+>>price
+>>growers product rating/his rating
+>> time taken care 
+
 Rate a Tree Grower
 Pay to Tree Grower
 Report 
 
 
+Fundamental Req
+Any where around a world person can be donor/grower
+Mass donation integration can also be their 
+By adjusting the filters
