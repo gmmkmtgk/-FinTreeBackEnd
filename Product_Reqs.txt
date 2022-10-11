@@ -1,0 +1,23 @@
+Req:
+User Registation 
+>> Google
+>> Email Registation (OTP Provision)
+User Progile >> NAME
+    >> Email
+
+Tree Grower 
+List a product
+Recive Orders
+Recive Payment
+Recive User Data
+Then he can send photo/video(with Donator's photo) on Donator's Email
+Dead Line + 30 Days payment Block  
+
+
+Tree Donator
+Can chosse a tree grower's product
+Rate a Tree Grower
+Pay to Tree Grower
+Report 
+
+
