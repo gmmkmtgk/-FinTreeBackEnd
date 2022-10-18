@@ -55,6 +55,9 @@ price
 >> connection of email to send recipt 
 
 
+DELETE ACCOUNT for both grower and donor
+
+
 
 
 
