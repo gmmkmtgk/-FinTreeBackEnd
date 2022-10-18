@@ -1,2 +1,60 @@
 User API
+USER LOGIN API
+>>email databse cheack
+>> password check
+(RSA/SALT HASH )
+>> google loing email sign up redirect 
+
+USER SIGN UP
+google open id connect 
+(outh name email user )
+email veification 
+datasbe password hash + salt jai ga
+
+LIST Product (Grower)
+POST
+>> NAME of tree(256)
+>> NAME of selller
+>> price
+>> country
+
+Product databse
+>> NAME of tree(256)
+>> NAME of selller
+>> price
+>> country
+>> rating (LIST)
+>> reviws 
+
+RATE PRODUCT/REview
+POST
+>> verification 
+>> rateing (1-5)
+>> review(1000)
+
+donor
+
+Get Orders (months) (response 200)
+GET 
+list (Indexing problem )
+
+Cancel Orders
+DELETE (response)
+
+MAKE oreder
+POST
+>> payment confomation 
+>> order id
+>> oty 
+
+GET INVOICE
+>> GET
+order id 
+oty
+price
+>> connection of email to send recipt 
+
+
+
+
 

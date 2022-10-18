@@ -1,9 +1,10 @@
 Req:
 User Registation 
 >> Google
->> Email Registation (OTP Provision)
+>> Email Registation (OTP Provision) Mobile SMS 
 User Progile >> NAME
     >> Email
+    >> M N
 
 Tree Grower 
 List a product
@@ -23,6 +24,7 @@ Filers are
 >>price
 >>growers product rating/his rating
 >> time taken care 
+>> payment integration 
 
 Rate a Tree Grower
 Pay to Tree Grower
