@@ -13,6 +13,9 @@ Recive Payment
 Recive User Data
 Then he can send photo/video(with Donator's photo) (4 digit code genration)on Donator's Email plus + after 25 days donator needs to send the same photo/ location where it is grown 
 Dead Line + 30 Days payment Block + 1-5% platform charges 
+Note here there was mistake in thinking 
+grower will never get donors information 
+
 
 
 Tree Donator

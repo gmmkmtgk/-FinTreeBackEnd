@@ -1,3 +1,12 @@
+External APIS
+
+Location import 
+plant name 
+plant photo
+
+
+
+
 User API
 USER LOGIN API
 >>email databse cheack
